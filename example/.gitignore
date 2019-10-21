@@ -1,0 +1,9 @@
+node_modules/
+build/
+*.js
+*.js.map
+*.zip
+*.gz
+package-lock.json
+.env.local
+data/token
